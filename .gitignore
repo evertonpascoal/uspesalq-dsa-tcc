@@ -1,0 +1,8 @@
+OIA-ODIR/
+IMG224_ALL/
+WEIGHTS/
+lightning_logs/
+.ipynb_checkpoints
+test_final.xlsx
+training_final.xlsx
+validation_final.xlsx
