@@ -1,4 +1,4 @@
-#TCC - Deep Learning aplicada no auxílio de diagnóstico de doenças oculares 
+# TCC - Deep Learning aplicada no auxílio de diagnóstico de doenças oculares 
 #### Repositório com o código fonte desenvolvido para treinar os modelos de CNN para o trabalho de conclusão de curso MBA em Data Science e Analytics da USP-ESALQ
 
 <p> As algoritimos desenvolvidos para este trabalho usam as tecnologias listadas abaixo</p>
