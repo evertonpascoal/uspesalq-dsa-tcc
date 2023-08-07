@@ -1,7 +1,7 @@
 # TCC - Deep Learning aplicada no auxílio de diagnóstico de doenças oculares 
 #### Repositório com o código fonte desenvolvido para treinar os modelos de CNN para o trabalho de conclusão de curso MBA em Data Science e Analytics da USP-ESALQ
 
-<p> As algoritimos desenvolvidos para este trabalho usam as tecnologias listadas abaixo</p>
+<p> Os algoritimos desenvolvidos para este trabalho usam as tecnologias listadas abaixo</p>
 
 <ul>
   <li>[Python 3](https://www.python.org/)</li>
@@ -14,5 +14,5 @@
 </ul>
 
 <p>Antes de clonar esse repo certifique-se que tenha todas as ferramentas/hardware necessários instalados</p>
-<p>É necessário importar o tcc_environment.yaml no Anaconda para todas as libs necessárias sejam instaladas com as versões corretas</p>
+<p>É necessário importar o tcc_environment.yaml no Anaconda para que todas as libs necessárias sejam instaladas com as versões corretas</p>
 
